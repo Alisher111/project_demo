@@ -7,6 +7,14 @@ html {
     border: 3px solid #000000;
 }
 
+.rightfig{
+float: right; /* Выравнивание по правому краю  */ 
+margin: 0 0 10px 10px; /* Отступы вокруг картинки */
+ border: 3px solid #000000;
+ margin-left: 15px;
+ border-radius: 5px;
+ }
+
 .pic {
     text-align: center;
 }
