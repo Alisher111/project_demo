@@ -47,6 +47,8 @@ margin: 0 0 10px 10px; /* Отступы вокруг картинки */
     background-color: #cacad2;
     color: #ffffff;
     text-align: center;
+     margin-left: auto;
+     margin-right: auto;
   }
 
 
